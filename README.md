@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love to Code, I like challenges
 -->
+🔭 I’m currently working on HTML, CSS, Tailwind CSS, JavaScript, ReactJs,TypeScript, PHP and MYSQL.
+🌱 I’m currently learning React.
+⚡ Fun fact: I love to Code, I like challenges.
 
 Projetos freelance que ja trabalhei :
 
@@ -21,7 +24,7 @@ twflorescer.com.br
 lotusessencial.com.br
 
 Connect with me:
-gorkcoder484 gorkcoder484 gorkcoder
+
 
 Languages and Tools:
 Visual Studio Code
