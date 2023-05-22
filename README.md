@@ -22,10 +22,11 @@ Here are some ideas to get you started:
   <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalx&layout=compact&theme=dracula" />
  </div>
 
-Projetos freelance que ja trabalhei :
+Freelance projects I've worked on:
 
 twflorescer.com.br
 lotusessencial.com.br
+
 
 
 Languages and Tools:
