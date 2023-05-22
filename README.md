@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React.
 - ⚡ Fun fact: I love to Code, I like challenges.
 <div>
-  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=carlosalx&show_icons=true&theme=dracula" />
   <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosalx&layout=compact&theme=dracula" />
  </div>
 
