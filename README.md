@@ -44,5 +44,16 @@ Visual Studio Code
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP"/>
 </div>
 
-
+Connect with me:
+<div style="display: flex">
+  <a target="_blank" href="https://www.linkedin.com/in/carlos-alessandro-de-sousa-santos-93441468"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+  <a target="_blank" href="https://www.facebook.com/carllos.alessandr/"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> 
+  </a>
+  <a target="_blank" href="carllosalessandro@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
+  </a>
+</div>
 
