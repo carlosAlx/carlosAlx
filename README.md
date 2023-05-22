@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Trabalho com HTML, @css, javascript, typescript, react, php, mysql.
+Trabalho com html, css, javascript, typescript, react, php, mysql.
 
 Projetos freelance que ja trabalhei :
 
