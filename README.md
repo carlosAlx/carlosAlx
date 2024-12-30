@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me
 <div style="display: flex">
-  <a target="_blank" href="https://www.linkedin.com/in/carlos-alessandro-de-sousa-santos-93441468">
+  <a target="_blank" href="https://www.linkedin.com/in/carllosalss/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a>
   <a target="_blank" href="https://www.facebook.com/carllos.alessandr/">
